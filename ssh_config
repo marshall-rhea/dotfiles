@@ -1,4 +1,0 @@
-Host umich
-    Hostname login.engin.umich.edu
-    IdentityFile ~/.ssh/id_ed25519.pub
-    IdentitiesOnly yes 
